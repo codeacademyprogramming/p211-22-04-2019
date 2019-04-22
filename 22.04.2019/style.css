@@ -1,0 +1,17 @@
+#main-header a{
+    color: teal;
+}
+
+.orange a{
+    color: red;
+}
+
+h2 a
+{
+    color: blue;
+}
+
+a{
+    text-decoration: none;
+    color: orange;
+}
